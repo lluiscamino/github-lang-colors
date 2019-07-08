@@ -1,0 +1,34 @@
+{
+  "name": "github-lang-colors",
+  "version": "1.0.0",
+  "description": "Returns the colors GitHub defines for programming languages.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lluiscamino/github-lang-colors.git"
+  },
+  "keywords": [
+    "github",
+    "github",
+    "colors",
+    "programming",
+    "language",
+    "colors",
+    "github",
+    "programming",
+    "language",
+    "colors",
+    "github",
+    "language",
+    "colors"
+  ],
+  "author": "Lluís Camino",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lluiscamino/github-lang-colors/issues"
+  },
+  "homepage": "https://github.com/lluiscamino/github-lang-colors#readme"
+}
