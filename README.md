@@ -9,15 +9,15 @@ npm i github-lang-colors
 
 ## Usage
 ```javascript
-import getLanguageColor from 'github-lang-colors';
-console.log(getLanguageColor('JavaScript')); // #f1e05a
-console.log(getLanguageColor('PHP')); // #4f5d95
+const githubLangColors = require('github-lang-colors');
+console.log(githubLangColors.getColor('JavaScript')); // #f1e05a
+console.log(githubLangColors.getColor('PHP')); // #4f5d95
 ```
 
 Note that the function is not case-sensitive.
 
 ```javascript
-console.log(getLanguageColor('php')); // #4f5d95
+console.log(githubLangColors.getColor('php')); // #4f5d95
 ```
 
 ## Language colors source
