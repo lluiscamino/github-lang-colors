@@ -1,10 +1,10 @@
 {
   "name": "github-lang-colors",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Returns the colors GitHub defines for programming languages.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
@@ -30,5 +30,9 @@
   "bugs": {
     "url": "https://github.com/lluiscamino/github-lang-colors/issues"
   },
-  "homepage": "https://github.com/lluiscamino/github-lang-colors#readme"
+  "homepage": "https://github.com/lluiscamino/github-lang-colors#readme",
+  "devDependencies": {
+    "mocha": "^6.1.4"
+  },
+  "dependencies": {}
 }
