@@ -1,4 +1,6 @@
 # github-lang-colors
+[![npm version](https://badge.fury.io/js/github-lang-colors.svg)](https://www.npmjs.com/package/github-lang-colors)
+
 Simple package that returns the color GitHub has defined for any programming language.
 
 ## Installation
