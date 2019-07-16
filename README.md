@@ -19,7 +19,7 @@ console.log(getColor('PHP')); // #4f5d95
 Note that the function is not case-sensitive.
 
 ```javascript
-console.log(githubLangColors.getColor('php')); // #4f5d95
+console.log(getColor('php')); // #4f5d95
 ```
 
 ## Language colors source
