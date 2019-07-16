@@ -9,9 +9,9 @@ npm i github-lang-colors
 
 ## Usage
 ```javascript
-const githubLangColors = require('github-lang-colors');
-console.log(githubLangColors.getColor('JavaScript')); // #f1e05a
-console.log(githubLangColors.getColor('PHP')); // #4f5d95
+const getColor = require('github-lang-colors');
+console.log(getColor('JavaScript')); // #f1e05a
+console.log(getColor('PHP')); // #4f5d95
 ```
 
 Note that the function is not case-sensitive.

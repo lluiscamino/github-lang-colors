@@ -1,6 +1,6 @@
 {
   "name": "github-lang-colors",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Returns the colors GitHub defines for programming languages.",
   "main": "index.js",
   "scripts": {

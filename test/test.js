@@ -1,5 +1,5 @@
 const assert = require('assert');
-const getLanguageColor = require('../index').getColor;
+const getLanguageColor = require('../index');
 
 describe('github-lang-colors', function() {
     it('should return valid color code', function() {
